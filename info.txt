@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-
-HELLO WORLD!!! THIS IS A DIFFERENT BRANCH!!! 
-helo, adding words
-=======
-HELLO WORLD!!! THIS IS A DIFFERENT BRANCH!!!  
->>>>>>> master
+commit 1
